@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.activities;
+package com.justflow.loginregister.activities;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -9,17 +9,14 @@ import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.androidtutorialshub.loginregister.R;
-import com.androidtutorialshub.loginregister.adapters.UsersRecyclerAdapter;
-import com.androidtutorialshub.loginregister.model.User;
-import com.androidtutorialshub.loginregister.sql.DatabaseHelper;
+import com.justflow.loginregister.R;
+import com.justflow.loginregister.adapters.UsersRecyclerAdapter;
+import com.justflow.loginregister.model.User;
+import com.justflow.loginregister.sql.DatabaseHelper;
 
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by lalit on 10/10/2016.
- */
 
 public class UsersListActivity extends AppCompatActivity {
 

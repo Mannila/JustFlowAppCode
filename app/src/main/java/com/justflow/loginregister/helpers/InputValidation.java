@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.helpers;
+package com.justflow.loginregister.helpers;
 
 import android.app.Activity;
 import android.content.Context;
@@ -7,7 +7,6 @@ import android.support.design.widget.TextInputLayout;
 import android.view.View;
 import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
-
 
 public class InputValidation {
     private Context context;

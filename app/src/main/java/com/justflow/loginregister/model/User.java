@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.model;
+package com.justflow.loginregister.model;
 
 
 public class User {

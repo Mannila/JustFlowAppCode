@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister;
+package com.justflow.loginregister;
 
 import org.junit.Test;
 
